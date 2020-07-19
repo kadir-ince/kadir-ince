@@ -1,6 +1,8 @@
 <p align="center" >
-  <img src="https://lh3.googleusercontent.com/proxy/v10aiM3CGv2gu7gg9FhH4mEhnIXUQolJo6O7SLFWxpRYe4K7-6aqDHo45jFSQZy2GSgGVyYBwlqUngjI4zmSf9uHdur7_DUckjS9MMDMRo_4TQ" height= 375 alt="how to working gif">
+  <img src="https://raw.githubusercontent.com/kadir-ince/kadir-ince/master/logo.gif" height=525 alt="how to working gif">
 </p>
+
+
 
 
 
