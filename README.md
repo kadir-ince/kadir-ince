@@ -6,7 +6,7 @@
 
 <br>
 
-![Kadir's github stats](https://github-readme-stats.vercel.app/api/?username=kadir-ince&show_icons=true&title_color=3080ed&icon_color=3080ed&text_color=9f9f9f&bg_color=100,ffffff,e0e5ec,a3b1c6,bac1dc&hide=prs&hide_border=true)
+![Kadir's github stats](https://github-readme-stats.vercel.app/api/?username=kadir-ince&show_icons=true&title_color=47ed00&text_color=ffffff&icon_color=47ed00&bg_color=45,ab6be2,5a08e1,4a01e0,bac1dc&hide=prs&hide_border=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kadir-ince&hide_langs_below=1)](https://github.com/kadir-ince/github-readme-stats)
 
