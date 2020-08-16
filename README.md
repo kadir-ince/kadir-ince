@@ -14,7 +14,10 @@
 
 - 🌱 I’m currently learning 
 <code title="JavaScript"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code title="Flutter"><img height="30" src="https://i0.wp.com/stickker.net/wp-content/uploads/2018/11/flutter.png.png?fit=610%2C610&ssl=1"></code>
+<code title="React"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+
+<!-- <code title="Flutter"><img height="30" src="https://i0.wp.com/stickker.net/wp-content/uploads/2018/11/flutter.png.png?fit=610%2C610&ssl=1"></code> -->
+
 
 
 - 🛠 My development environment <code title="macOS"><img height="30"  src="https://img.icons8.com/color/48/000000/mac-logo.png"></code>
