@@ -6,11 +6,8 @@
 
 <br>
 
-![Kadir's github stats](https://github-readme-stats.vercel.app/api/?username=kadir-ince&show_icons=true&title_color=3080ed&icon_color=3080ed&text_color=9f9f9f&bg_color=ffffff&hide=prs,issues&hide_border=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kadir-ince&hide_langs_below=1)](https://github.com/kadir-ince/github-readme-stats)
-
-
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kadir-ince&hide_langs_below=1&hide_border=true) | ![Kadir's github stats](https://github-readme-stats.vercel.app/api/?username=kadir-ince&show_icons=true&title_color=3080ed&icon_color=3080ed&text_color=9f9f9f&bg_color=ffffff&hide=prs,issues&hide_border=true) |
+|------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 - 🌱 I’m currently learning 
 <code title="JavaScript"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
