@@ -1,5 +1,5 @@
 <p align="center" >
-  <img src="https://raw.githubusercontent.com/kadir-ince/kadir-ince/master/js.gif"  alt="javascript-gif">
+  <img src="https://raw.githubusercontent.com/kadir-ince/kadir-ince/master/logo.gif"  alt="javascript-gif">
 </p>
 
 
@@ -10,13 +10,15 @@
 |------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 - 🌱 I’m currently learning 
-<code title="JavaScript"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code title="React & React Native"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> 
-<!--<code title="Flutter"><img height="30" src="https://i0.wp.com/stickker.net/wp-content/uploads/2018/11/flutter.png.png?fit=610%2C610&ssl=1"></code>-->
+<!--<code title="JavaScript"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code title="React & React Native"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> -->
+<code title="Swift"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Swift_logo.svg/1138px-Swift_logo.svg.png"></code>
+<code title="Flutter"><img height="30" src="https://i0.wp.com/stickker.net/wp-content/uploads/2018/11/flutter.png.png?fit=610%2C610&ssl=1"></code>
 
 
 
 - 🛠 My development environment <code title="macOS"><img height="30"  src="https://img.icons8.com/color/48/000000/mac-logo.png"></code>
+<code title="Xcode"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xcode/xcode.png"></code>
 <code title="Visual Studio Code"><img height="30" src="https://user-images.githubusercontent.com/49339/32078472-5053adea-baa7-11e7-9034-519002f12ac7.png"></code>
 
 
