@@ -11,7 +11,8 @@
 
 - 🌱 I’m currently learning 
 <code title="Swift"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Swift_logo.svg/1138px-Swift_logo.svg.png"></code>
-<code title="JavaScript"><img height="30" src="https://img.icons8.com/nolan/64/javascript.png"></code>
+<code title="JavaScript"><img height="35" src="https://i.ibb.co/dgRdvLr/javascript-19.png"></code>
+
 
 
 - 🛠 My development environment <code title="macOS"><img height="30"  src="https://img.icons8.com/color/48/000000/mac-logo.png"></code>
