@@ -12,7 +12,7 @@
 - 🌱 I’m Currently Learning 
 <code title="Swift"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Swift_logo.svg/1138px-Swift_logo.svg.png"></code>
 - 🛠 My Development Environment <code title="macOS"><img height="30"  src="https://img.icons8.com/color/48/000000/mac-logo.png"></code>
-<code title="Xcode"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xcode/xcode.png"></code>
+<code title="Xcode"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xcode/xcode.png"></code> <br>
 - 📸 For Design: 
 <code title="Photoshop"><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png"></code>
 <code title="Illustrator"><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/616px-Adobe_Illustrator_CC_icon.svg.png"></code>
