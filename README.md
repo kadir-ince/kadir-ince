@@ -6,7 +6,7 @@
 
 <br>
 
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kadir-ince&hide_langs_below=1&hide_border=true) | ![Kadir's github stats](https://github-readme-stats.vercel.app/api/?username=kadir-ince&show_icons=true&title_color=3080ed&icon_color=3080ed&text_color=9f9f9f&bg_color=ffffff,issues&hide_border=true) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kadir-ince&hide_langs_below=1&hide_border=true) | ![Kadir's github stats](https://github-readme-stats.vercel.app/api/?username=kadir-ince&show_icons=true&title_color=3080ed&icon_color=3080ed&text_color=9f9f9f&bg_color=ffffff,issues&hide_border=true&count_private=true) |
 |------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 <!--
  🌱 I’m Currently Learning 
