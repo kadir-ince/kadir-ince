@@ -17,6 +17,6 @@
 <code title="Photoshop"><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png"></code>
 <code title="Illustrator"><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/616px-Adobe_Illustrator_CC_icon.svg.png"></code>
 <code title="Dimension"><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Adobe_Dimension_Logo.svg/1200px-Adobe_Dimension_Logo.svg.png"></code> -->
-- 💬 Twitter: <a href="https://www.twitter.com/0x_778">@0x_778</a>
+- 💬 Twitter: <a href="https://www.twitter.com/kadirince42">@kadirince42</a>
 - 📫 Email: you.can.send@pm.me
 
