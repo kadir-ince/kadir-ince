@@ -10,9 +10,9 @@
 |------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 <p align="center" >
- | 
+   
  <code title="Unity Logo"><img height="50" src="https://108download.com/wp-content/uploads/Unity-Web-Player.png"></code> <code title="Flutter Logo"><img height="50" src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg"></code> <code title="Figma Logo"><img height="50" src="https://i.pinimg.com/originals/a5/58/b4/a558b426cb8973523f37bbed94cf0f09.png"></code> <code title="Fl Studio Logo"><img height="50" src="https://www.image-line.com/wp-content/themes/intracto/build/images/fl-fruit-logo.png"></code>
-  |
+  
   
 </p>
 
