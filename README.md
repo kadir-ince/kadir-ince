@@ -1,5 +1,5 @@
 <p align="center" >
-  <img src="https://github.com/IGameDevI/igamedevi/blob/master/gamer_800x600.gif?raw=true"  alt="Game Dev Gif">
+  <img src="https://github.com/IGameDevI/igamedevi/blob/master/logo.gif?raw=true"  alt="gif">
 </p>
 
 
