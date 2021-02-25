@@ -1,5 +1,5 @@
 <p align="center" >
-  <img src="https://github.com/IGameDevI/igamedevi/blob/master/RGB_AI.png"  alt="logo" width=850px>
+  <img src="https://github.com/IGameDevI/igamedevi/blob/master/RGB_AI.png"  alt="logo" width=500px>
 </p>
 
 
