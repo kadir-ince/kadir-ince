@@ -11,6 +11,3 @@
 
 
 
-
-- 💬 Twitter: <a href="https://www.twitter.com/InceStudio">@InceStudio</a>
-- 📫 Email: you.can.send@pm.me
