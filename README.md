@@ -1,5 +1,5 @@
 <p align="center" >
-  <img src="https://github.com/IGameDevI/igamedevi/blob/master/RGB_AI.png"  alt="logo" width=500px>
+  <img src="https://github.com/InceStudio/InceStudio/blob/master/RGB_AI.png"  alt="logo" width=500px>
 </p>
 
 
@@ -12,5 +12,5 @@
 
 
 
-- 💬 Twitter: <a href="https://www.twitter.com/igamedevi">@igamedevi</a>
+- 💬 Twitter: <a href="https://www.twitter.com/InceStudio">@InceStudio</a>
 - 📫 Email: you.can.send@pm.me
