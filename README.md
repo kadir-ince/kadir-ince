@@ -1,5 +1,5 @@
 <p align="center" >
-  <img src="https://github.com/InceStudio/InceStudio/blob/master/RGB_AI.png"  alt="logo" width=500px>
+  <img src="https://github.com/kadir-ince/kadir-ince/blob/master/logo.gif"  alt="logo" >
 </p>
 
 
