@@ -1,5 +1,5 @@
 <p align="center" >
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png" width="600px"  alt="logo" >
+  <img src="https://github.com/kadir-ince/kadir-ince/blob/master/logo.gif?raw=true" alt="logo" >
 </p>
 
 
