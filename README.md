@@ -1,6 +1,5 @@
 <p align="center" >
-  <img src="https://github.com/kadir-ince/kadir-ince/blob/master/servergif.gif?raw=true" width="6![Uploading image.gif…]()
-50px" alt="logo" >
+<img src="https://github.com/kadir-ince/kadir-ince/blob/master/servergif.gif?raw=true" width="700px" alt="logo" >
 </p>
 
 
