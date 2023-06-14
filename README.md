@@ -1,6 +1,8 @@
+<!--
 <p align="center" >
 <img src="https://github.com/kadir-ince/kadir-ince/blob/master/js.gif?raw=true" alt="gif"  style="border-radius:50%">
 </p>
+-->
 
 
 <br>
